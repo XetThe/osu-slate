@@ -1,4 +1,4 @@
-<img src="readme/slate.png" style="mix-blend-mode: overlay;">
+<img src="readme/slate.png">
 
 # Slate
 An open source osu! skin template designed to make skinning easy.
@@ -6,7 +6,7 @@ An open source osu! skin template designed to make skinning easy.
 ## About Slate.
 The name comes from the phrase "A clean slate" which means, well, a blank canvas, so to say.
 
-Ever since I started making skin in osu! I found out how hard it was to get some things right <small style="font-size: 8px">looking at you mania</small>. That's why, one day I decided to start compiling a list of ALL (or at least most) of the gimmicks about osu! skinning and turn it all upside down to end up with:
+Ever since I started making skin in osu! I found out how hard it was to get some things right <small style="font-size: 8px">(looking at you mania)</small>. That's why, one day I decided to start compiling a list of ALL (or at least most) of the gimmicks about osu! skinning and turn it all upside down to end up with:
 
 - A template osu! skin that makes sense and "just works".
 - A highly accurate preview of the final skin directy in Photoshop.
