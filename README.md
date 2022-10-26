@@ -24,4 +24,4 @@ As of now, everyone can help contribute to the Slate project by suggesting featu
 
 ## License.
 
-Slate is Licensed under the CC-BY-4.0 license. for more information on this license and what it allows, you can [Go Here]()
+Slate is Licensed under the CC-BY-4.0 license. for more information on this license and what it allows, you can [Go Here](https://github.com/XetThe/osu-slate/blob/main/LICENSE.txt)
