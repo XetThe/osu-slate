@@ -1,4 +1,4 @@
-<img src="readme/slate.png">
+<img src="readme/slate.png" style="mix-blend-mode: overlay;">
 
 # Slate
 An open source osu! skin template designed to make skinning easy.
